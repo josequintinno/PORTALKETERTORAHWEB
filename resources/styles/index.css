@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+#header {
+    list-style: none;
+    font-weight: bold;
+    color: white;
+}
+
+#header .header-primario ul {
+    /* border: red 0.1rem solid; */
+    background-color: #1E73BE;
+}
+
+#header ul {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 1.6rem;
+}
+
+#header .header-secundario {
+    background-color: black;
+    padding: 1rem;
+}
