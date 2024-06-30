@@ -1,9 +1,16 @@
+@font-face {
+    font-family: "Nunito";
+    src: url(/resources/fonts/Nunito/Nunito-Regular.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
 }
 
-body {}
+body {
+    font-family: "Nunito";
+}
 
 #header {
     list-style: none;

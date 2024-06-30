@@ -22,7 +22,8 @@
             - Criar estrutura da página principal
             - Criar header com efeito Sticky Navigation on Scroll
 
-        - Padrão de versionamento
+        - Versionamento
 
             🔵 feature: Criação do projeto
             🔵 feature: Criar header com efeito Sticky Navigation on Scroll
+            🔵 feature: Importar fonte Nunito para o projeto
