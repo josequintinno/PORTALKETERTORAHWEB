@@ -12,6 +12,8 @@
 
         - Rodar o Chromium como aplicativo (IOS)
 
+            /Applications/Chromium.app/Contents/MacOS/Chromium --app=http://127.0.0.1:5500/index.html --disable-gpu --hide-scrollbars --disable-pinch
+
             http://127.0.0.1:5500/index.html
 
     + Demandas e Versionamento
